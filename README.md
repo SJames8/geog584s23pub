@@ -17,4 +17,4 @@
 - [calebsmittyy](https://github.com/calebsmittyy)
 - [hannahsamy](https://github.com/hannahsamy) 
 - [monson-mike](https://github.com/monson-mike)
-- [SJames8](https://github.com/SJames8)
+- [SJames8](https://github.com/SJames8) https://github.com/SJames8/markdown-cv/blob/master/index.md
